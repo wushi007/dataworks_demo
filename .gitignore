@@ -1,0 +1,16 @@
+# 系统与编辑器
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 日志与本地产物
+*.log
+spark-warehouse/
+metastore_db/
+derby.log
